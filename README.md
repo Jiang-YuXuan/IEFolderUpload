@@ -1,6 +1,6 @@
-# IEFolderUpload
-nodejs的文件夹上传（仅支持IE）
+# FolderUpload
+nodejs的文件夹上传
 
-如果点击选择按钮提示：你没有权限，应该如下修改：
-  1. 单击菜单工具->Internet选项->安全->受信任站点->站点->把此网站设为可信站点
-  2. 单击菜单工具->Internet选项->安全->自定义级别->对没有标记为安全的ActiveX控件进行初始化和脚本运行"----"启用"
+运行index1.js
+  1. 此为input file的form表单提交
+  2.空文件夹和空文件不会上传
